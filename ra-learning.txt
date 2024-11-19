@@ -4,5 +4,5 @@ RA-LEARNING
 - Data Mining
 - IOT
 - Jaringan
-- AI
 - Bahasa
+- Ms Office
